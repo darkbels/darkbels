@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://t.me/stormbel" target="_blank">Liza</a>
-<img src="https://github.com/darkbels/darkbels/imgs/love_death_robots.gif" height="48" width="48"/></h1>
+<img src="https://github.com/darkbels/darkbels/blob/main/imgs/love_death_robots.gif" height="48" width="48"/></h1>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9603a7u00730gl7e4po06n5/stats?cursusId=21&coalitionId=92" alt="dmorton's 42 stats" /></a>
 
