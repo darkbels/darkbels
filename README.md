@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://t.me/stormbel" target="_blank">Liza</a>
 
 
-<img src="https://github.com/darkbels/darkbels/blob/main/imgs/rick_and_morty.gif" height="100" width="100"/></h1>
+<img src="https://github.com/darkbels/darkbels/blob/main/imgs/cute.gif" height="100" width="100"/></h1>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=15&pause=1000&color=0258DA&center=true&width=435&lines=I'm+a+student+of+Ecole+42+programming+school" alt="Typing SVG" /></a></h3>
 
