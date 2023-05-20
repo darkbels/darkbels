@@ -30,6 +30,6 @@ I'm thrilled to connect with fellow adventurers and code explorers! Reach out to
 
 👽 **Email**: rjevskayal@gmail.com
 
-Let's create something extraordinary, push boundaries, and make a positive impact on the world through the magic of coding! Together, we can achieve greatness! 🌟🌍
+Let's create something extraordinary, push boundaries, and make a positive impact on the world through the magic of coding! 🌟🌍
 
 
