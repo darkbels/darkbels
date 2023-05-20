@@ -30,7 +30,7 @@ I'm thrilled to connect with fellow adventurers and code explorers! Reach out to
 
 👽 **Email**: dmorton@student.42.fr
 
-:flying_saucer: **Telegram**: https://t.me/stormbel
+:flying_saucer: **Telegram**: <a href="https://t.me/stormbel" target="_blank">@stormbel</a>
 
 Let's create something extraordinary, push boundaries, and make a positive impact on the world through the magic of coding! 🌟🌍
 
