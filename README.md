@@ -28,7 +28,7 @@ When I'm not immersed in the realms of coding, you can find me enjoying life's o
 
 I'm thrilled to connect with fellow adventurers and code explorers! Reach out to me through the following channels:
 
-👽 **Email**: rjevskayal@gmail.com
+👽 **Email**: dmorton@student.42.fr
 
 Let's create something extraordinary, push boundaries, and make a positive impact on the world through the magic of coding! 🌟🌍
 
