@@ -1,22 +1,35 @@
-<h1 align="center">Hi, I'm <a href="https://t.me/stormbel" target="_blank">Liza</a>
+# Hello World! ☕️🌍
 
-<img src="https://github.com/darkbels/darkbels/blob/main/imgs/relax.gif" height="150" width="150"/></h1>
+Welcome to my coding universe! I'm <a href="https://t.me/stormbel" target="_blank">Liza</a>, a passionate explorer on a quest to unlock the secrets of programming and unravel the wonders of technology! Grab a cup of coffee, put on your coding hat, and let's dive into this exciting journey together! 🚀✨
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=15&pause=1000&center=true&width=435&lines=I'm+a+student+of+Ecole+42+programming+school" alt="Typing SVG" /></a></h3>
+## About Me
+
+👩🏽‍💻 Aspiring Developer | 🌱 Constant Learner | 🌟 Dreamer
+
+I'm an enthusiastic learner, always seeking to expand my programming skills and explore different areas of interest. Currently, I'm diving into backend development, cybersecurity, machine learning, and game development. As a student at programming school 42, I have the opportunity to collaborate with fellow learners, enabling me to grow my knowledge and skills in a supportive environment
 
 <h3 align="center"><img src="https://badge42.vercel.app/api/v2/cl9603a7u00730gl7e4po06n5/stats?cursusId=21&coalitionId=45" alt="dmorton's 42 stats" /></a></h3>
 
-<!--
-**darkbels/darkbels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests and Hobbies
 
-Here are some ideas to get you started:
+When I'm not immersed in the realms of coding, you can find me enjoying life's other adventures:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕️ **Coffee Lover**: Coffee fuels my coding sessions! Let's chat over a virtual cup of coffee and discuss the latest tech trends or brainstorm ideas for amazing projects
+
+🏓 **Fitness Enthusiast**: I'm a former gymnast, rower, and weightlifter, and I have a deep passion for staying active. These days, you'll find me embracing fitness in all its forms. From hitting the gym and exploring different workout routines to trying out yoga poses and going for a refreshing run, I love challenging my body and pushing my limits to achieve a healthy and balanced lifestyle
+
+🌿 **Nature Lover**: Nature is my sanctuary. I find solace in the great outdoors, breathing in the fresh air, and marveling at its beauty. Whether it's thrilling rafting adventures, embarking on scenic hikes, or simply appreciating the wonders of nature, I always seek to connect with the environment. I'm also passionate about environmental conservation and sustainability. Let's build applications that not only harness technology but also actively contribute to the protection and preservation of our planet, ensuring that future generations can continue to enjoy the natural beauty we cherish
+
+✈️ **Travel Addict**: The world is a vast playground, waiting to be explored! I'm passionate about traveling, experiencing diverse cultures, and embracing new perspectives. Have any travel recommendations? Let's swap stories!
+
+🌈 **Connecting with People**: I believe in the power of human connection. Let's collaborate, share ideas, and support each other on this incredible journey. Feel free to reach out, and let's build something amazing together!
+
+## Let's Connect and Explore!
+
+I'm thrilled to connect with fellow adventurers and code explorers! Reach out to me through the following channels:
+
+👽 **Email**: rjevskayal@gmail.com
+
+Let's create something extraordinary, push boundaries, and make a positive impact on the world through the magic of coding! Together, we can achieve greatness! 🌟🌍
+
+
