@@ -1,6 +1,6 @@
 # Hello World! ☕️🌍
 
-Welcome to my coding universe! I'm <a href="https://t.me/stormbel" target="_blank">Liza</a>, a passionate explorer on a quest to unlock the secrets of programming and unravel the wonders of technology! Grab a cup of coffee, put on your coding hat, and let's dive into this exciting journey together! 🚀✨
+Welcome to my coding universe! I'm <a href="https://t.me/stormbel" target="_blank">Liza</a>, a passionate explorer on a quest to unlock the secrets of programming and unravel the wonders of technology! Grab a cup of coffee, invite your trusted rubber duck companion, and let's dive into this exciting journey together 🚀✨
 
 ## About Me
 
