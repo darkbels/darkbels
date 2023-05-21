@@ -20,7 +20,7 @@ When I'm not immersed in the realms of coding, you can find me enjoying life's o
 
 🌿 **Nature Lover**: Nature is my sanctuary. I find solace in the great outdoors, breathing in the fresh air, and marveling at its beauty. Whether it's thrilling rafting adventures, embarking on scenic hikes, or simply appreciating the wonders of nature, I always seek to connect with the environment. I'm also passionate about environmental conservation and sustainability. Let's build applications that not only harness technology but also actively contribute to the protection and preservation of our planet!
 
-✈️ **Travel Addict**: The world is a vast playground, waiting to be explored! I'm incredibly captivated by traveling, experiencing diverse cultures, and embracing new perspectives. Have any travel recommendations? Let's swap stories!
+✈️ **Travel Addict**: The world is a vast playground, waiting to be explored! I'm absolutely captivated by traveling, experiencing diverse cultures, and embracing new perspectives. Have any travel recommendations? Let's swap stories!
 
 🌈 **Connecting with People**: I believe in the power of human connection. Let's collaborate, share ideas, and support each other on this incredible journey. Feel free to reach out, and let's build something amazing together!
 
